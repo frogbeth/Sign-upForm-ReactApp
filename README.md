@@ -12,4 +12,4 @@ this project was built with react and uses usestate when the sign-up form is sub
 because this project is a single page, when the "create account" button is clicked, the user's info is logged in the console to represent information that might be displayed on the user's account information page.
 
 ![Image](public/screenshot1.png)
-this project was created with react, js, and css.
+this project was created with react, js, html, and css.
